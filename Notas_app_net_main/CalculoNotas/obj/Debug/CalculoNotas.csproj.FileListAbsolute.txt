@@ -1,0 +1,12 @@
+C:\Users\VICTOR\source\repos\CalculoNotas\CalculoNotas\bin\Debug\CalculoNotas.exe.config
+C:\Users\VICTOR\source\repos\CalculoNotas\CalculoNotas\bin\Debug\CalculoNotas.exe
+C:\Users\VICTOR\source\repos\CalculoNotas\CalculoNotas\bin\Debug\CalculoNotas.pdb
+C:\Users\VICTOR\source\repos\CalculoNotas\CalculoNotas\obj\Debug\CalculoNotas.csprojAssemblyReference.cache
+C:\Users\VICTOR\source\repos\CalculoNotas\CalculoNotas\obj\Debug\CalculoNotas.frmcalculonotas.resources
+C:\Users\VICTOR\source\repos\CalculoNotas\CalculoNotas\obj\Debug\CalculoNotas.Properties.Resources.resources
+C:\Users\VICTOR\source\repos\CalculoNotas\CalculoNotas\obj\Debug\CalculoNotas.csproj.GenerateResource.cache
+C:\Users\VICTOR\source\repos\CalculoNotas\CalculoNotas\obj\Debug\CalculoNotas.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\source\repos\CalculoNotas\CalculoNotas\obj\Debug\CalculoNotas.exe
+C:\Users\VICTOR\source\repos\CalculoNotas\CalculoNotas\obj\Debug\CalculoNotas.pdb
+C:\Users\VICTOR\source\repos\CalculoNotas\CalculoNotas\obj\Debug\CalculoNotas.Trash.resources
+C:\Users\VICTOR\source\repos\CalculoNotas\CalculoNotas\obj\Debug\CalculoNotas.Acercade.resources

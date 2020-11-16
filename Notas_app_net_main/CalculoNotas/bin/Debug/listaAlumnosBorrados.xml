@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAlumno xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Alumno>
+    <Codigo>2</Codigo>
+    <Nombre>awd</Nombre>
+    <Correo>awdaw@dwa.com</Correo>
+    <Nota1>4</Nota1>
+    <Nota2>4</Nota2>
+    <Nota3>4</Nota3>
+    <Nota4>4</Nota4>
+    <NotaFinal>4</NotaFinal>
+    <NotaConcepto>Aprobado</NotaConcepto>
+  </Alumno>
+  <Alumno>
+    <Codigo>2</Codigo>
+    <Nombre>awd</Nombre>
+    <Correo>awdaw@dwa.com</Correo>
+    <Nota1>4</Nota1>
+    <Nota2>4</Nota2>
+    <Nota3>4</Nota3>
+    <Nota4>4</Nota4>
+    <NotaFinal>4</NotaFinal>
+    <NotaConcepto>Aprobado</NotaConcepto>
+  </Alumno>
+  <Alumno>
+    <Codigo>9</Codigo>
+    <Nombre>dwadwa</Nombre>
+    <Correo>dwadaw@dwad.com</Correo>
+    <Nota1>4</Nota1>
+    <Nota2>4</Nota2>
+    <Nota3>4</Nota3>
+    <Nota4>4</Nota4>
+    <NotaFinal>4</NotaFinal>
+    <NotaConcepto>Aprobado</NotaConcepto>
+  </Alumno>
+</ArrayOfAlumno>
